@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ganbiedetuzi.github.io</id>
+    <title>兔子窝</title>
+    <updated>2024-03-20T09:59:15.630Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://ganbiedetuzi.github.io"/>
+    <link rel="self" href="https://ganbiedetuzi.github.io/atom.xml"/>
+    <subtitle>聚沙成塔</subtitle>
+    <logo>https://ganbiedetuzi.github.io/images/avatar.png</logo>
+    <icon>https://ganbiedetuzi.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, 兔子窝</rights>
+</feed>
